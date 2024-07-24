@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+   
+}
+.posterbirthday{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gambarcake{
+    width: 100%;
+    border: 5px solid pink;
+    
+}
+h1{
+    text-transform: uppercase;
+    color: yellow;
+
+}
